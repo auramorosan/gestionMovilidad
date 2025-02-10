@@ -1,0 +1,8 @@
+1554-LTC 18,PlazaMayor_Villaverde
+4522-MMS 123,CalleSol_Madrid
+6212-LPC 33,CalleSantillana_Aravaca
+3389-GRS 4,PlazaConstitucion_Aranjuez
+5412-FDT 110,PlazaSantaAna_Parla
+7721-HKM 32,CalleCapitan_Madrid
+0123-NVK 43,AvenidaAmerica_Madrid
+5300-NVK 33,CalleCapitan_Madrid

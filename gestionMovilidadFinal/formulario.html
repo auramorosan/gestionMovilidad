@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Seleccionar Tipo de Formulario</title>
+</head>
+<body>
+    <h1>Seleccionar Formulario</h1>
+    <form action="procesarFormulario.php" method="POST">
+        Selecciona el tipo de formulario:<select name="tipoFormulario" id="tipoFormulario" required>
+            <option value="">--Selecciona una opcion --</option>
+            <option value="logistica">Logística</option>
+            <option value="residentesYHoteles">Residentes y Hoteles</option>
+            <option value="servicios">Servicios</option>
+            <option value="taxis">Taxis</option>
+            <option value="vehiculosEMT">Vehículos EMT</option>
+        </select>
+        <button type="submit">Enviar</button>
+    </form>
+</body>
+</html>
